@@ -286,3 +286,9 @@ Referenced in the original work:
 
 Built with [dotNetRDF](https://dotnetrdf.org/), [Svelte](https://svelte.dev/),
 [Cytoscape.js](https://js.cytoscape.org/) and [Tailwind CSS](https://tailwindcss.com/).
+
+## Licence and disclaimer
+
+This is a personal project by Richard Potter, shared in the hope it's useful. It's free to use under the MIT licence (see [LICENSE](LICENSE)). It's provided as is: I make no promises that it works or suits your purpose, and I take no responsibility for anything that happens from using it. It isn't a product of, or supported by, any company I work for.
+
+The libraries it builds on (dotNetRDF, Svelte, Cytoscape.js, Tailwind CSS and friends) are fetched by the package managers and keep their own licences.
